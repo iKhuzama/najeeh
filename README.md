@@ -1,2 +1,4 @@
 # najeeh
 data analysis model
+
+Our goal is to analyze student grades and predict whether they will pass or fail based on several features. These features include parental occupation, the distance between the student's home and the school, and their grades in math and language exams. By understanding which factors are most influential in determining whether a student will pass or fail, we can develop recommendations for students, and educators to improve overall student performance. To achieve this goal, we will use multiple linear regression and three different classification algorithms: Support Vector Machines (SVM), Random Forest (RF), and Naive Bayes (NB). We will split the dataset into a 30% testing set and a 70% training set before building the models. Finally, we will evaluate the performance of each algorithm and identify the most important features for predicting student success.
